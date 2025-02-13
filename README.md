@@ -1,5 +1,5 @@
 # Smart Robot with AI Integration
-![IMG_1375](https://github.com/user-attachments/assets/c3badb07-4a3e-4212-9fd9-acf7228042f0)
+![IMG_1375](https://github.com/user-attachments/assets/932adb50-dc28-4930-bd69-248182dec0b4)
 ![IMG_1376](https://github.com/user-attachments/assets/c98e4c54-a2db-4296-9c06-018852cc4667)
 
 This project is a custom-built smart robot designed to follow people and converse with them using AI. The robot features movement control via TT motors, person tracking using a PI AI camera, and speech synthesis with Gemma 2b LLM. It combines computer vision, speech processing, and AI to interact with users in a dynamic way.
@@ -52,7 +52,7 @@ The script lets you control the robot using keyboard keys, simulating how it wou
 
 ## Work in Progress
 
-This project is still a work in progress. While the core features such as person tracking, speech interaction, and movement control have been implemented, there are still areas that require further refinement and development. Currently, the robot is in a prototype stage, and future updates will focus on improving the accuracy of person tracking, enhancing the conversational AI capabilities, and optimizing motor control for smoother movement.
+This is my first attempt at a hardware project, and is still a work in progress. While the core features such as person tracking, speech interaction, and movement control have been implemented, there are still areas that require further refinement and development. Currently, the robot is in a prototype stage, and future updates will focus on improving the accuracy of person tracking, enhancing the conversational AI capabilities, and optimizing motor control for smoother movement.
 
 ### Hardware Requirements
 - Raspberry Pi (with GPIO pins enabled)
