@@ -1,4 +1,6 @@
 # Smart Robot with AI Integration
+![IMG_1375](https://github.com/user-attachments/assets/e9ba12b5-3149-43a3-b1e7-143a05e1f5c9)
+![IMG_1376](https://github.com/user-attachments/assets/c670134e-c029-4f04-9d96-2cdbfe08bb5c)
 
 This project is a custom-built smart robot designed to follow people and converse with them using AI. The robot features movement control via TT motors, person tracking using a PI AI camera, and speech synthesis with Gemma 2b LLM. It combines computer vision, speech processing, and AI to interact with users in a dynamic way.
 
